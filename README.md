@@ -8,7 +8,7 @@ PNG exports of the figures used in the DBAD 4000 (Advanced Database) Gamma slide
 
 - `week_11/` — Week 11, Lakehouse, Streaming & Enterprise Integration: 27 figures plus the shared UNGRADED badge; the number in each file name is the card it belongs on (`card48_kafka_step1`–`3` and `card49_microbatch_step1`–`3` are two three-frame progressions; `card33_time_travel` follows the Act 3 recap).
 
-- `week_12/` — Week 12, Warehousing, ETL & Analytics (graded GL4 week): 23 figures plus the shared GRADED badge; the number in each file name is the card it belongs on (`card07_star_step1`–`3` and `card23_pipeline_step1`–`4` are two progressions). These are the v2 figures, revised after the Week 12 review on 2026-11-18.
+- `week_12/` — Week 12, Warehousing, ETL & Analytics (graded GL4 week): 23 figures plus the shared GRADED badge; the number in each file name is the card it belongs on (`card07_star_step1`–`3` and `card23_pipeline_step1`–`4` are two progressions). These are the v2 figures, revised after the Week 12 review on 2026-11-18. `week_12/v3/` holds the title card and the Act 2 divider re-drawn the same day in plain words, so the deck names nothing before it introduces it; the deck uses those two from `v3/` and the rest from `week_12/`.
 
 The editable SVG masters, alt text and generation scripts live in the course workspace (`04_visuals/week_NN/`), not here. Nothing in this repo is an assessment, key or solution.
 
