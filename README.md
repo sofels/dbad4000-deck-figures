@@ -8,6 +8,8 @@ PNG exports of the figures used in the DBAD 4000 (Advanced Database) Gamma slide
 
 - `week_11/` — Week 11, Lakehouse, Streaming & Enterprise Integration: 27 figures plus the shared UNGRADED badge; the number in each file name is the card it belongs on (`card48_kafka_step1`–`3` and `card49_microbatch_step1`–`3` are two three-frame progressions; `card33_time_travel` follows the Act 3 recap).
 
+- `week_12/` — Week 12, Warehousing, ETL & Analytics (graded GL4 week): 23 figures plus the shared GRADED badge; the number in each file name is the card it belongs on (`card07_star_step1`–`3` and `card23_pipeline_step1`–`4` are two progressions). These are the v2 figures, revised after the Week 12 review on 2026-11-18.
+
 The editable SVG masters, alt text and generation scripts live in the course workspace (`04_visuals/week_NN/`), not here. Nothing in this repo is an assessment, key or solution.
 
 - `cpsy3000/week_11/` — CPSY 3000 Week 11, Memory Hierarchy: Locality and Caches: 18 figures; the number in each file name is the text card each figure follows (`card01` is the title card). `card18_ripes_cache_map` is an annotated Ripes 2.2.6 screenshot. The editable SVG masters, alt text and generators live in the CPSY 3000 course workspace (`04_visuals/week_11/`). Nothing here is an assessment, key or solution.
