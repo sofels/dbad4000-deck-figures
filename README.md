@@ -13,3 +13,5 @@ PNG exports of the figures used in the DBAD 4000 (Advanced Database) Gamma slide
 The editable SVG masters, alt text and generation scripts live in the course workspace (`04_visuals/week_NN/`), not here. Nothing in this repo is an assessment, key or solution.
 
 - `cpsy3000/week_11/` — CPSY 3000 Week 11, Memory Hierarchy: Locality and Caches: 18 figures; the number in each file name is the text card each figure follows (`card01` is the title card). `card18_ripes_cache_map` is an annotated Ripes 2.2.6 screenshot. The editable SVG masters, alt text and generators live in the CPSY 3000 course workspace (`04_visuals/week_11/`). Nothing here is an assessment, key or solution.
+
+- `cpsy3000/week_10/` — CPSY 3000 Week 10, Pipelining and Hazards: one figure, `wk10_card28_flynn` (Flynn's four boxes), used on card 21a of the Week 12 deck since 2026-11-21, where the Flynn segment moved. The editable SVG master and alt text live in the course workspace (`04_visuals/week_10/`). Nothing here is an assessment, key or solution.
